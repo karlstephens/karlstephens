@@ -1,4 +1,5 @@
 <header>
+  <a class="logo" href="#">Karl Stephens</a>
   <nav>
     <ul>
       <li>Home</li>
