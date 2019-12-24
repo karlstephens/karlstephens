@@ -8,3 +8,11 @@
  </nav>
 </header>
   
+<section>
+  <h2>Services</h2>
+    <div class="container">
+      <article></article>
+      <article></article>
+      <article></article>
+  </div>
+</section>
