@@ -3,5 +3,10 @@ body {
 }
 
 a {
+  color: #333;
+  text-decoration: underline;
+}
+
+a:hover {
   color: #0085ff;
 }
